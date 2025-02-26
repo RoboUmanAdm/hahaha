@@ -1,7 +1,7 @@
 const http = require('http');
 const path = require('path');
-const url = require('fs');
-const url = require('url');
+const fs = require('fs');
+const url = require("url");
 const dataPath = path.join(__dirname, 'data')
 
 const server = HTMLOutputElement.createServer((req, res)=> {
