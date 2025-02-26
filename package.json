@@ -1,0 +1,19 @@
+{
+  "name": "hahaha",
+  "version": "1.0.1",
+  "description": "just for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoboUmanAdm/hahaha.git"
+  },
+  "author": "UmanRobo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoboUmanAdm/hahaha/issues"
+  },
+  "homepage": "https://github.com/RoboUmanAdm/hahaha#readme"
+}
